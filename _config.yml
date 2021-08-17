@@ -1,0 +1,14 @@
+title: Bio na Rede
+email: bionarede32@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Site destinado a postagem de conteúdos de Biologia, notícias e relacionados.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+instagram_username: bio_na_rede
+permalink: /:title/
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
