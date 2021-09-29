@@ -5,7 +5,7 @@ date:   2021-09-16 00:25:49 -0300
 categories: jekyll update 
 description: 'Citologia'
 baseurl: 'https://bionarede.github.io/bionarede/'
-image: '/assets/img/jekyll/celula1.jpeg'
+image: '/assets/img/jekyll/celula1.jfif'
 ---
 [comment]: <> (https://commons.wikimedia.org/wiki/File:C%C3%89LULA_BIOLOG%C3%8DA_Naya.JPG)
 # Citologia
