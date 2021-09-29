@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "O Dia Nacional do Cerrado é comemorado no dia 11 de setembro."
+date:   2021-09-16 00:25:49 -0300
+categories: jekyll update 
+description: 'Camada de Ozônio!'
+baseurl: 'https://bionarede.github.io/bionarede/'
+image: '/assets/img/jekyll/cerrado.jpg'
+---
+[comment]: <> (https://pixabay.com/pt/photos/%C3%A1rvore-amanhecer-cerrado-sol-dia-1784750/)
+# Camada de Ozônio
+<img src="/assets/img/cerrado1.png" alt="Intro" class="img-fluid mb-4 mt-5">
+<img src="/assets/img/cerrado2.png" alt="Intro" class="img-fluid mb-4 mt-5">
