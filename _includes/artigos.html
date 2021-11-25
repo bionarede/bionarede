@@ -1,6 +1,7 @@
 <div class="container artigos mt-5">
     <h1 class="text-center">Artigos Recentes</h1>
     <hr>
+<<<<<<< HEAD
  
    
     <div class="containerCarousel">
@@ -63,5 +64,18 @@
 
 
      
+=======
+    <div class="row">
+            {% for post in site.posts %}
+            <div class="card mx-auto my-2" style="width: 18rem;">
+                <img src="{{ post.image }}" class="card-img-top" alt="Imagem de capa do card" style="width: 286px; height: 180px;">
+                <div class="card-body">
+                    <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-primary" style="color: #fff;">Visitar</a>
+                </div>
+            </div>
+        {% endfor %}
+>>>>>>> 7f8903341973226c46b3a3464840903b06102f87
         </div>
+        
+       
     
