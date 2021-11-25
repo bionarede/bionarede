@@ -3,10 +3,13 @@
     {% include head.html %}
   <body>
     <div class="container-fluid px-0">
-        {% include header-post.html %}
+        {% include header-conteudos.html %}
         <div class="container">
           {{content}}
         </div>
+
+        {% include artigos.html %}
+
         {% include footer.html %}
     </div>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
