@@ -31,7 +31,7 @@ main { display: block; /* Default value of `display` of `main` element is 'inlin
 
 .divt { width: 40%; display: inline-block; margin-left: 6%; margin-right: 4%; margin-top: 6.5%;} 
 
-.divi { width: 40%; display: inline-block; margin-left: 4%; margin-bottom: 8%;}
+.divi { width: 40%; display: block; margin-left: 4%; margin-bottom: 8%; margin-top: 6.5%; float: right;}
 
 .cheddar { border: solid red 15px;}
 
