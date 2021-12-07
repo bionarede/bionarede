@@ -5,7 +5,13 @@
    text-align: center;
     }
 
-
+.postconfig{
+    border: red 1px solid;
+    margin-right: 28px;
+    margin-bottom: 25px;
+    padding: 10px;
+     
+}
 
 /** carousel*/
 .carouselTodos{

@@ -8,23 +8,25 @@ realização ...'
 baseurl: 'https://bionarede.github.io/bionarede/'
 image: '/assets/img/jekyll/metabolismo.png'
 ---
-[comment]: <> (https://commons.wikimedia.org/wiki/File:El_metabolismo_celular.png) 
-# Metabolismo Energético!  
+[comment]: <> (https://commons.wikimedia.org/wiki/File:El_metabolismo_celular.png)   
   
-![metabol01](/assets/img/metabol01.png)
- 
-Conjunto de reações químicas que produzem a energia necessária para a
-realização das funções vitais dos seres vivos (anabolismo e catabolismo).  
-* Anabolismo: moléculas simples ➔ moléculas mais complexas. Reações
-de síntese.  
-Glicose ➔ Glicogênio  
- 
-* Catabolismo: moléculas complexas ➔ moléculas mais simples.  
-Reações de degradação  
-Amido ➔ Glicose  
+![metabol01](/assets/img/metabolismo.png)
 
-![metabol02](/assets/img/metabol02.png)
 
-![metabol03](/assets/img/metabol03.png)
-  
-<h5 style="text-align: center;"><a href="https://sharegorilla.com/q/xRDMftf">Baixar arquivos e atividade de metabolismo energético.</a>
+<br>
+
+<h5 style="text-align: center;">Baixar PDF de metabolismo energético:</h5>
+
+<br>
+
+<h5 style="text-align: center;"><a href="https://drive.google.com/u/0/uc?id=19wt5Cur60Z7yWbfB-y-K_YBgj67U36-t&export=download"><img src="/assets/img/pdf.png" width="48" height="48"></a></h5>
+
+<br>
+
+<h5 style="text-align: center;">Baixar PDF da atividade de metabolismo energético:</h5>
+
+<br>
+
+<h5 style="text-align: center;"><a href="https://drive.google.com/u/0/uc?id=1ZBbauoTA67PCYjtkiSOYYv4qQfO5y026&export=download"><img src="/assets/img/pdf.png" width="48" height="48"></a></h5>
+
+<br>
