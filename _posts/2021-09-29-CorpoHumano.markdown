@@ -20,7 +20,7 @@ image: '/assets/img/jekyll/celula.gif'
 
 <br>
 
-<h5 style="text-align: center;">Baixar PDF da atividade de Respiração:</h5>
+<h5 style="text-align: center;">Baixar PDF da Atividade de Respiração:</h5>
 
 <br>
 
@@ -47,7 +47,7 @@ image: '/assets/img/jekyll/celula.gif'
 
 <br>
 
-<h5 style="text-align: center;">Baixar PDF da atividade de Digestão:</h5>
+<h5 style="text-align: center;">Baixar PDF da Atividade de Digestão:</h5>
 
 <br>
 

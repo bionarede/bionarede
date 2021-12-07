@@ -15,7 +15,7 @@ image: '/assets/img/jekyll/metabolismo.png'
 
 <br>
 
-<h5 style="text-align: center;">Baixar PDF de metabolismo energético:</h5>
+<h5 style="text-align: center;">Baixar PDF de Metabolismo Energético:</h5>
 
 <br>
 
@@ -23,7 +23,7 @@ image: '/assets/img/jekyll/metabolismo.png'
 
 <br>
 
-<h5 style="text-align: center;">Baixar PDF da atividade de metabolismo energético:</h5>
+<h5 style="text-align: center;">Baixar PDF da atividade de Metabolismo #nergético:</h5>
 
 <br>
 

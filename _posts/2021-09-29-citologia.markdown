@@ -15,7 +15,7 @@ image: '/assets/img/jekyll/celula1.jfif'
 
 <br>
 
-<h5 style="text-align: center;">Baixar PDF da atividade de citologia:</h5>
+<h5 style="text-align: center;">Baixar PDF da Atividade de Citologia:</h5>
 
 <br>
 
