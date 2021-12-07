@@ -1,41 +1,40 @@
 <nav class="navbar navbar-expand-sm fixed-top shadow" style="background-color: #008B8B"> 
-       <img src="/assets/img/lifbg.png" class="image-fluid" alt="Logo" width="161" height="50" href="{{ index }}">
-       <a href="index.html"><img src="/assets/img/bnr.png" class="image-fluid" width="140" height="30" hspace="15"></a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#expansivo"
-           aria-controls="#expansivo" aria-expanded="false" aria-label="Alterna Navegação"><span
-               class="navbar-toggler-icon"></span></button>
-           <div class="collapse navbar-collapse" id="navbarSupportedContent">
-               <ul class="navbar-nav ml-auto mb-2 mb-lg-0">
-                   <li class="nav-item">
-                      
-               </li>
-           </ul>
-           <form class="d-flex">
-               <input class="form-control me-2" type="search" placeholder="Pesquisar" aria-label="Search">
-               <button class="btn btn-outline-success" type="submit"><i class="fas fa-search"></i></button>
-           </form>
-       </div>
-       </div>
-   </nav>
+    <img src="/assets/img/lifbg.png" class="image-fluid" alt="Logo" width="161" height="50" href="{{ index }}">
+    <a href="index.html"><img src="/assets/img/bnr.png" class="image-fluid" width="140" height="30" hspace="15"></a>
+     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#expansivo"
+        aria-controls="#expansivo" aria-expanded="false" aria-label="Alterna Navegação"><span
+            class="navbar-toggler-icon"></span></button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                   
+            </li>
+        </ul>
+        <form class="d-flex">
+            <input class="form-control me-2" type="search" placeholder="Pesquisar" aria-label="Search">
+            <button class="btn btn-outline-success" type="submit"><i class="fas fa-search"></i></button>
+        </form>
+    </div>
+    </div>
+</nav>
 
-   <br>
+<br>
 
 <div class="container artigos mt-5">
-   <br>
-   <h1 class="text-center">Conteúdos</h1>
-   <hr>
+<br>
+<h1 class="text-center">Conteúdos</h1>
+<hr>
 
-   <div class="row">
-           {% for post in site.posts %}
-           <div class="card mx-auto my-2" style="width: 18rem;">
-               <img src="{{ post.image }}" class="card-img-top" alt="Imagem de capa do card" style="width: 286px; height: 180px;">
-               <div class="card-body">
-                   <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-primary" style="color: #fff;">Visitar</a>
-               </div>
-           </div>
-       {% endfor %}
+<div class="row">
+        {% for post in site.posts %}
+        <div class="card mx-auto my-2" style="width: 18rem;">
+            <img src="{{ post.image }}" class="card-img-top" alt="Imagem de capa do card" style="width: 286px; height: 180px;">
+            <div class="card-body">
+                <h5 class=card-title>{{ post.title }}</h5>
+                <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-primary" style="color: #fff;">Visitar</a>
+            </div>
+        </div>
+    {% endfor %}
 
-       </div>
-   </div> 
-       
-    
+    </div>
+</div>
