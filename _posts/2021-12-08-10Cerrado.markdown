@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Combate ao Fumo"
+title:  "Cerrado"
 date:   2021-12-07 00:25:49 -0300
 categories: jekyll update 
 baseurl: 'https://bionarede.github.io/bionarede/'
-image: '/assets/img/jekyll/cigarro.jpg'
+image: '/assets/img/ceimg.png'
 ---
-[comment]: <> (https://pixnio.com/pt/media/artrite-cigarro-perto-dedo-mao)
-
+[comment]: <> 
 <html lang="pt-br">
     <head>
     <title>Bio na Rede</title>
@@ -30,28 +29,24 @@ image: '/assets/img/jekyll/cigarro.jpg'
   <body>
 
 <div class="containerCarousel" style="text-align: center; margin: 5px 200px ;" >
-        <div id="carouselFumo" class="carousel carouselTodos" data-ride="carousel">
+        <div id="carouselCerrado" class="carousel carouselTodos" data-ride="carousel">
             <ol class="carousel-indicators">
-                <li data-target="#carouselFumo" data-slide-to="0" class="active"></li>
-                <li data-target="#carouselFumo" data-slide-to="1" ></li>
-                <li data-target="#carouselFumo" data-slide-to="2" ></li>
+                <li data-target="#carouselCerrado" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselCerrado" data-slide-to="1" ></li>
             </ol>
             <div style="margin-bottom: 5px;" class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="/assets/img/fumo1.png "  class="img-fuid d-block">
+                    <img src="/assets/img/cerrado1.png "  class="img-fuid d-block">
                 </div>
                 <div class="carousel-item">
-                    <img src="/assets/img/fumo2.png"  class="img-fuid d-block">
-                </div>          
-                <div class="carousel-item">
-                    <img src="/assets/img/fumo3.png"   class="img-fuid d-block">
-                </div>           
+                    <img src="/assets/img/cerrado2.png"  class="img-fuid d-block">
+                </div>                   
             </div>
-            <a class="carousel-control-prev" href="#carouselFumo" role="button" data-slide="prev">
+            <a class="carousel-control-prev" href="#carouselCerrado" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon"></span>
                 <span class="sr-only">Anterior</span>
             </a>
-            <a class="carousel-control-next" href="#carouselFumo" role="button" data-slide="next">
+            <a class="carousel-control-next" href="#carouselCerrado" role="button" data-slide="next">
                 <span class="carousel-control-next-icon"></span>
                 <span class="sr-only">Próximo</span>
             </a>

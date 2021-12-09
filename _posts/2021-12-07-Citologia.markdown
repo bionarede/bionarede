@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Citologia"
-date:   2021-09-29 00:25:49 -0300
+date:   2021-12-08 00:25:49 -0300
 categories: jekyll update 
 
 baseurl: 'https://bionarede.github.io/bionarede/'
-image: '/assets/img/jekyll/celula1.jfif'
+image: '/assets/img/Cimg.png'
 ---
-[comment]: <> (https://commons.wikimedia.org/wiki/File:C%C3%89LULA_BIOLOG%C3%8DA_Naya.JPG)
+[comment]: <> 
 
 
 ![citologia](/assets/img/citologia.png)

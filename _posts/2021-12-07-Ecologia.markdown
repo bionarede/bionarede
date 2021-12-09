@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Ecologia!"
-date:   2021-12-07 16:16:16 -0300
+title:  "Ecologia"
+date:   2021-12-08 16:16:16 -0300
 categories: jekyll update 
 baseurl: 'https://bionarede.github.io/bionarede/'
-image: '/assets/img/jekyll/ozonio.jpg'
+image: '/assets/img/ecimg.png'
 ---
-[comment]: <> (https://pixabay.com/pt/photos/sol-nuvem-clima-3313646/)
+[comment]: <> 
 
 ![Ecologia](/assets/img/ecologia.png)
 <br>

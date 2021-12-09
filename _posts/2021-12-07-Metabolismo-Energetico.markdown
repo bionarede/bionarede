@@ -1,14 +1,12 @@
 ---
 layout: post
 title:  "Metabolismo Energético"
-date:   2021-10-03 00:25:49 -0300
+date:   2021-12-08 00:25:49 -0300
 categories: jekyll update 
-description: 'Conjunto de reações químicas que produzem a energia necessária para a
-realização ...'
 baseurl: 'https://bionarede.github.io/bionarede/'
-image: '/assets/img/jekyll/metabolismo.png'
+image: '/assets/img/meimg.png'
 ---
-[comment]: <> (https://commons.wikimedia.org/wiki/File:El_metabolismo_celular.png)   
+[comment]: <> 
   
 ![metabol01](/assets/img/metabolismo.png)
 
@@ -23,7 +21,7 @@ image: '/assets/img/jekyll/metabolismo.png'
 
 <br>
 
-<h5 style="text-align: center;">Baixar PDF da atividade de Metabolismo #nergético:</h5>
+<h5 style="text-align: center;">Baixar PDF da atividade de Metabolismo Energético:</h5>
 
 <br>
 
