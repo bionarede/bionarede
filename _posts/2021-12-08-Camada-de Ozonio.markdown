@@ -4,9 +4,9 @@ title:  "Camada de Ozônio"
 date:   2021-12-07 00:25:49 -0300
 categories: jekyll update 
 baseurl: 'https://bionarede.github.io/bionarede/'
-image: '/assets/img/jekyll/cigarro.jpg'
+image: '/assets/img/camimg.png'
 ---
-[comment]: <> (https://pixnio.com/pt/media/artrite-cigarro-perto-dedo-mao)
+
 
 <html lang="pt-br">
     <head>

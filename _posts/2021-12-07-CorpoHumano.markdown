@@ -61,6 +61,10 @@ image: '/assets/img/Corimg.png'
 
 <br>
 
+![CorpoHumano](/assets/img/circulacao.jpeg) 
+
+<br>
+
 <h5 style="text-align: center;">Baixar PDF de Circulação:</h5>
 
 <br>
