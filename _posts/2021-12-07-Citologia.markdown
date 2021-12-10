@@ -22,3 +22,11 @@ image: '/assets/img/Cimg.png'
 <h5 style="text-align: center;"><a href="https://drive.google.com/u/0/uc?id=1NY5S3GbTeDSWX6kQHPDNbNgCpKTsejVU&export=download"><img src="/assets/img/pdf.png" width="48" height="48"></a></h5>
 
 <br>
+
+<h5 style="text-align: center;">Baixar PDF do Jogo da Memória da Divisão Celular:</h5>
+
+<br>
+
+<h5 style="text-align: center;"><a href="https://drive.google.com/u/0/uc?id=1djcWzTf6lAelH4tWDVyGaslZW0Yt76wj&export=download"><img src="/assets/img/pdf.png" width="48" height="48"></a></h5>
+
+<br>
