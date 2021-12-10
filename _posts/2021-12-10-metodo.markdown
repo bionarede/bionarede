@@ -7,8 +7,10 @@ baseurl: 'https://bionarede.github.io/bionarede/'
 image: '/assets/img/metimg.png'
 ---
 [comment]: <> 
-  
+  <hr> 
+
 ![metabol01](/assets/img/metodo.jpeg)
+
 
 
 <br>
@@ -17,7 +19,8 @@ image: '/assets/img/metimg.png'
 
 <br>
 
-<h5 style="text-align: center;"><a href="https://drive.google.com/u/0/uc?id=1axyqmAa3rL5NJUi4AnNQhOrjK3u1cVj_&export=download"><img src="/assets/img/pdf.png" width="48" height="48"></a></h5>
-
+<h5 style="text-align: center;"><a href="https://drive.google.com/u/0/uc?id=1xWQWktkmktwuKKJv-Ftlq8_lkUtP7C5R&export=download"><img src="/assets/img/pdf.png" width="48" height="48"></a></h5>
+<hr>
 <br>
 
+ 

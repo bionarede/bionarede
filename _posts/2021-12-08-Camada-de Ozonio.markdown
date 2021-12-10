@@ -28,12 +28,13 @@ image: '/assets/img/camimg.png'
     
   </head>
   <body>
-
+ <hr>
 <div class="containerCarousel" style="text-align: center; margin: 5px 200px ;" >
        <div class="carouselTodos"> 
         <img src="/assets/img/camadadeozonio1.png" style="margin-top: 5px;"  width="600px" height="750px" class="img-fuid d-block">
     </div> 
    </div>
-
+ <hr>
+ <br>
 </body>
 </html>

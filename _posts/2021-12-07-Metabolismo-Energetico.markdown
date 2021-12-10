@@ -8,7 +8,8 @@ image: '/assets/img/meimg.png'
 ---
 [comment]: <> 
   
-![metabol01](/assets/img/metabolismo.png)
+   <hr>
+  ![metabol01](/assets/img/metabolismo.png)
 
 
 <br>
@@ -26,5 +27,5 @@ image: '/assets/img/meimg.png'
 <br>
 
 <h5 style="text-align: center;"><a href="https://drive.google.com/u/0/uc?id=1ZBbauoTA67PCYjtkiSOYYv4qQfO5y026&export=download"><img src="/assets/img/pdf.png" width="48" height="48"></a></h5>
-
+ <hr>
 <br>

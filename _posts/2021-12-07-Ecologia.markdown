@@ -8,6 +8,8 @@ image: '/assets/img/ecimg.png'
 ---
 [comment]: <> 
 
+ <hr>
+
 ![Ecologia](/assets/img/ecologia.png)
 <br>
 
@@ -18,11 +20,13 @@ image: '/assets/img/ecimg.png'
 <h5 style="text-align: center;"><a href="https://drive.google.com/u/0/uc?id=1cz08_AEH_mrnplg67mQXSdbH5CQldnEa&export=download"><img src="/assets/img/pdf.png" width="48" height="48"></a></h5>
 
 <br>
+ 
 
 ![Ecologia](/assets/img/sucessaoeco.png)
 
+ 
 <br>
-
+ 
 <h5 style="text-align: center;">Baixar PDF de Sucessão Ecológica:</h5>
 
 <br>
@@ -104,5 +108,5 @@ image: '/assets/img/ecimg.png'
 <br>
 
 <h5 style="text-align: center;"><a href="https://drive.google.com/u/0/uc?id=1SS04iySPhhAeaKiTgC2l2pTLcPSjowD5&export=download"><img src="/assets/img/pdf.png" width="48" height="48"></a></h5>
-
+ <hr>
 <br>

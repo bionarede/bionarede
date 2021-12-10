@@ -27,7 +27,7 @@ image: '/assets/img/ceimg.png'
     
   </head>
   <body>
-
+ <hr>
 <div class="containerCarousel" style="text-align: center; margin: 5px 200px ;" >
         <div id="carouselCerrado" class="carousel carouselTodos" data-ride="carousel">
             <ol class="carousel-indicators">
@@ -53,6 +53,7 @@ image: '/assets/img/ceimg.png'
         </div>
     
    </div>
-
+ <hr>
+ <br>
 </body>
 </html>

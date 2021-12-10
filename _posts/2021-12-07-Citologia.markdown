@@ -9,6 +9,7 @@ image: '/assets/img/Cimg.png'
 ---
 [comment]: <> 
 
+ <hr>
 
 ![citologia](/assets/img/citologia.png)
 
@@ -28,5 +29,5 @@ image: '/assets/img/Cimg.png'
 <br>
 
 <h5 style="text-align: center;"><a href="https://drive.google.com/u/0/uc?id=1djcWzTf6lAelH4tWDVyGaslZW0Yt76wj&export=download"><img src="/assets/img/pdf.png" width="48" height="48"></a></h5>
-
+ <hr>
 <br>

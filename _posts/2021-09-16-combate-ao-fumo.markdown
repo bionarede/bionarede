@@ -29,6 +29,8 @@ image: '/assets/img/fumoimg.png'
   </head>
   <body>
 
+   <hr>
+
 <div class="containerCarousel" style="text-align: center; margin: 5px 200px ;" >
         <div id="carouselFumo" class="carousel carouselTodos" data-ride="carousel">
             <ol class="carousel-indicators">
@@ -58,6 +60,7 @@ image: '/assets/img/fumoimg.png'
         </div>
     
    </div>
-
+ <hr>
+ <br>
 </body>
 </html>

@@ -7,7 +7,8 @@ baseurl: 'https://bionarede.github.io/bionarede/'
 image: '/assets/img/Corimg.png'
 ---
 [comment]: <> (https://commons.wikimedia.org/wiki/File:Celula_Eucariota_Animal_3(1).gif)
-
+ <hr>
+ 
 ![CorpoHumano](/assets/img/respiração.png) 
 
 <br>
@@ -70,6 +71,6 @@ image: '/assets/img/Corimg.png'
 <br>
 
 <h5 style="text-align: center;"><a href="https://drive.google.com/u/0/uc?id=1-hVQt62IINgoZiAR5V4s--BijgZV8hrt&export=download"><img src="/assets/img/pdf.png" width="48" height="48"></a></h5>
-
+ <hr>
 <br>
 
