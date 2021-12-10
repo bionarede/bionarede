@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Método Científico"
+date:   2021-12-08 00:25:49 -0300
+categories: jekyll update 
+baseurl: 'https://bionarede.github.io/bionarede/'
+image: '/assets/img/metimg.png'
+---
+[comment]: <> 
+  
+![metabol01](/assets/img/metodo.jpeg)
+
+
+<br>
+
+<h5 style="text-align: center;">Baixar PDF de Método Científico:</h5>
+
+<br>
+
+<h5 style="text-align: center;"><a href="https://drive.google.com/u/0/uc?id=1axyqmAa3rL5NJUi4AnNQhOrjK3u1cVj_&export=download"><img src="/assets/img/pdf.png" width="48" height="48"></a></h5>
+
+<br>
+
